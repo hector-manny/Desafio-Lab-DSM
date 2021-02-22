@@ -10,3 +10,5 @@
 
 # funcionamiento 
 
+<img src="https://github.com/hector-manny/Desafio-Lab-DSM/blob/main/Captura%20de%20pantalla%20(262).png?raw=true"/>
+
