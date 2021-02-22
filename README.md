@@ -10,18 +10,15 @@
 
 # funcionamiento 
 
-*Pantalla principal
+Pantalla principal
 <img src="https://github.com/hector-manny/Desafio-Lab-DSM/blob/main/Captura%20de%20pantalla%20(262).png?raw=true"/>
 
-*pantalla secundaria 
-
+pantalla secundaria 
 <img src="https://github.com/hector-manny/Desafio-Lab-DSM/blob/main/Captura%20de%20pantalla%20(263).png?raw=true"/>
 
-*panntalla con validacion
-
+panntalla con validacion
 <img src="https://github.com/hector-manny/Desafio-Lab-DSM/blob/main/Captura%20de%20pantalla%20(264).png?raw=true"/>
 
-*pantalla de resultados
-
+pantalla de resultados
 <img src="https://github.com/hector-manny/Desafio-Lab-DSM/blob/main/Captura%20de%20pantalla%20(265).png?raw=true"/>
 
