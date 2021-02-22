@@ -7,3 +7,6 @@
 - Oswaldo Alberto Valle Serrano VS161940
 - Alex Roberto Mata Cerritos MC150475
 - Hector Daniel Mejía Martinez MM
+
+# funcionamiento 
+
